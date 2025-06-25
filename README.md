@@ -1,6 +1,6 @@
 # 🎓 MERN Stack E-Learning App
 
-A full-featured online learning platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js). This app allows users to register, enroll in courses, track progress, and manage content through a clean and responsive UI.
+A full-featured online learning platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). Designed for students, instructors, and admins, this app enables seamless digital education delivery. It includes real-time course management, user authentication, video lessons, assessments, and administrative tools — all wrapped in a clean, responsive interface.
 
 ---
 
@@ -78,12 +78,10 @@ Made with ❤️ by Debabrata Das
 
 ### 👨‍🎓 Student Dashboard
 
-![Dashboard](elearning.png)
+![Dashboard](elearning2.png)
 
 ### 📘 Course Page
 
-![Course](elearning2.png)
+![Course](elearning3.png)
 
-### 🛠 Admin Panel
-
-![Admin Panel](elearning3.png)
+![](elearning.png)
