@@ -56,12 +56,7 @@ cd client
 npm install
 npm run dev
 
-```
-
----
-
 ## 📁 Folder Structure
-
 e-learning-mern/
 ├── client/ # React frontend
 ├── server/ # Express backend
@@ -70,6 +65,8 @@ e-learning-mern/
 │ ├── controllers/ # Business logic
 │ └── middleware/ # Auth, error handlers
 └── README.md
+
+```
 
 ---
 
