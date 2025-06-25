@@ -46,47 +46,47 @@ A full-featured online learning platform built with the MERN stack (MongoDB, Exp
 git clone https://github.com/dev-debabrata/e-learning-mern
 cd e-learning-mern
 
-## Backend Setup (Server)
+Backend Setup (Server)
 cd server
 npm install
 npm run dev
 
-## Frontend Setup (Client)
+Frontend Setup (Client)
 cd client
 npm install
 npm run dev
 
+```
+
+---
+
 ## 📁 Folder Structure
+
 e-learning-mern/
-├── client/          # React frontend
-├── server/          # Express backend
-│   ├── models/      # Mongoose schemas
-│   ├── routes/      # API endpoints
-│   ├── controllers/ # Business logic
-│   └── middleware/  # Auth, error handlers
+├── client/ # React frontend
+├── server/ # Express backend
+│ ├── models/ # Mongoose schemas
+│ ├── routes/ # API endpoints
+│ ├── controllers/ # Business logic
+│ └── middleware/ # Auth, error handlers
 └── README.md
 
+---
 
 ## 🙋 Author
+
 Made with ❤️ by Debabrata Das
 
 ## 📸 Screenshots
 
 ### 👨‍🎓 Student Dashboard
+
 ![Dashboard](elearning.png)
 
 ### 📘 Course Page
+
 ![Course](elearning2.png)
 
 ### 🛠 Admin Panel
+
 ![Admin Panel](elearning3.png)
-(elearning.png)
-(elearning2.png)
-(elearning3.png)
-
-📄 License
-
----
-
-If you want me to customize it further with *your GitHub repo name*, *MongoDB URL tips*, or *live demo links*, let me know!
-```
