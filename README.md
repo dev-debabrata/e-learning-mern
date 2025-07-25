@@ -58,12 +58,12 @@ npm run dev
 
 ## 📁 Folder Structure
 e-learning-mern/
-├── client/ # React frontend
-├── server/ # Express backend
-│ ├── models/ # Mongoose schemas
-│ ├── routes/ # API endpoints
-│ ├── controllers/ # Business logic
-│ └── middleware/ # Auth, error handlers
+├── client/
+├── server/
+│ ├── models/
+│ ├── routes/ 
+│ ├── controllers/ 
+│ └── middleware/ 
 └── README.md
 
 ```
